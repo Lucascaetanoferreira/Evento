@@ -33,6 +33,7 @@ public class Principal {
         local2.setHorario("20:00");
 
         JOptionPane.showMessageDialog(null, local);
+        // ccccccc
 
     }
 }
